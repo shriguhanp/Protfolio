@@ -81,6 +81,3 @@ If you'd like to explore the code or run this portfolio on your local machine:
 
 </details>
 
-<div align="center">
-    <i>Built with ❤️ using React & Tailwind CSS</i>
-</div>
