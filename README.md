@@ -1,39 +1,83 @@
-# 🌐 Portfolio Website
+<div align="center">
 
-Welcome to my personal portfolio repository!  
-This project showcases my skills, projects, and experience as a **Full Stack & AI Engineer**.
+# 🚀 Personal Portfolio
 
-## 🚀 About Me
-I’m **Shri Guhan P**, a passionate developer who loves building intelligent, scalable, and user-centric applications using modern web and AI technologies.
+✨ *Design. Develop. Deploy.* ✨  
+
+A modern personal portfolio showcasing my work as a **Full Stack & AI Engineer**.
+
+</div>
+
+---
+
+## 👋 Hi, I'm Shri Guhan P
+
+I’m a **Full Stack & AI Engineer** who enjoys turning ideas into real-world applications.  
+I focus on building **scalable web apps**, **AI-powered systems**, and **clean UI experiences**.
+
+---
+
+## 🧠 What I Do
+- 💻 Build full-stack web applications  
+- 🤖 Develop AI & ML powered solutions  
+- 🎨 Create clean, responsive UI designs  
+- 🚀 Turn ideas into production-ready products  
+
+---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Python, Flask / Node.js  
-- **AI & ML:** TensorFlow, Hugging Face, LangChain  
-- **Database:** MySQL, MongoDB  
-- **Tools:** Git, GitHub, VS Code
 
-## 📂 Features
-- Personal introduction
-- Projects showcase
-- Skills overview
-- Contact information
-- Responsive design
+**Frontend**
+- HTML, CSS, JavaScript
+- React, Tailwind CSS
 
-## 📸 Live Demo
-🔗 *Coming soon / Add your deployed link here*
+**Backend**
+- Python, Flask
+- Node.js
+
+**AI / ML**
+- TensorFlow
+- Hugging Face
+- LangChain
+
+**Tools & Platforms**
+- Git & GitHub
+- VS Code
+- Docker (basic)
+
+---
 
 ## 📁 Project Structure
-├── index.html
-├── css/
-├── js/
-├── assets/
-└── README.md
+
+📦 portfolio
+┣ 📂 assets
+┣ 📂 css
+┣ 📂 js
+┣ 📜 index.html
+┗ 📜 README.md
 
 
-## 📬 Contact
-- **GitHub:** https://github.com/shriguhanp  
-- **LinkedIn:** *Add your LinkedIn profile link*
+---
+
+## 🌍 Live Portfolio
+🔗 **Coming Soon**  
+(*Replace with your deployed link*)
+
+---
+
+## 📬 Connect With Me
+- 🐙 **GitHub:** https://github.com/shriguhanp  
+- 💼 **LinkedIn:** *Add your LinkedIn URL*  
+
+---
 
 ## ⭐ Support
-If you like this project, consider giving it a ⭐ on GitHub!
+If you like this portfolio, don’t forget to **star ⭐ the repo** — it really helps!
+
+---
+
+<div align="center">
+
+🔥 *Always learning. Always building.* 🔥  
+
+</div>
