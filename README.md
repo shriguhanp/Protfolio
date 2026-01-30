@@ -1,83 +1,39 @@
-# Shri Guhan P
-### AI Engineer | Architecting Intelligent Systems
-*[Hands-on Hackathon Enthusiast]*
+# 🌐 Portfolio Website
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Demo-blue?style=for-the-badge&logo=vercel)](https://ai.studio/apps/drive/1e9yytmpg08-eUqY9piaRafj5GJx56B7n)
-[![Email](https://img.shields.io/badge/Email-shriguhan7%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:shriguhan7@gmail.com)
+Welcome to my personal portfolio repository!  
+This project showcases my skills, projects, and experience as a **Full Stack & AI Engineer**.
 
-</div>
+## 🚀 About Me
+I’m **Shri Guhan P**, a passionate developer who loves building intelligent, scalable, and user-centric applications using modern web and AI technologies.
 
----
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Python, Flask / Node.js  
+- **AI & ML:** TensorFlow, Hugging Face, LangChain  
+- **Database:** MySQL, MongoDB  
+- **Tools:** Git, GitHub, VS Code
 
-## �‍💻 About Me
+## 📂 Features
+- Personal introduction
+- Projects showcase
+- Skills overview
+- Contact information
+- Responsive design
 
-> **"Code is temporary, logic is forever."**
+## 📸 Live Demo
+🔗 *Coming soon / Add your deployed link here*
 
-I am an enthusiastic **2nd-year B.Tech Computer Science student** at **Sri Manakula Vinayagar Engineering College (SMVEC)**, Cuddalore, India. My journey is defined by a laser focus on **Artificial Intelligence** and **Full Stack Development**.
+## 📁 Project Structure
+├── index.html
+├── css/
+├── js/
+├── assets/
+└── README.md
 
-I leverage a strong academic background (**9.14 CGPA**) and a passion for hands-on problem solving to build AI-driven applications and RAG-powered platforms. I am constantly exploring new technologies to architect intelligent systems that solve real-world problems.
 
-### 🌟 Highlights
-*   **Role**: AI Engineer
-*   **Education**: B.Tech CSE @ SMVEC
-*   **CGPA**: 9.14
-*   **Location**: Cuddalore, India
+## 📬 Contact
+- **GitHub:** https://github.com/shriguhanp  
+- **LinkedIn:** *Add your LinkedIn profile link*
 
----
-
-## 🛠️ Technical Arsenal
-
-My portfolio showcases a robust set of skills utilized to build modern, high-performance web applications and AI solutions.
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React (v18+), Tailwind CSS, Framer Motion |
-| **Backend** | Node.js, Express.js |
-| **Database** | MongoDB |
-| **AI/ML** | RAG Systems, Intelligent Agents |
-| **Tools** | Vite, Git, Postman |
-
----
-
-## � Portfolio Statistics
-
-This repository itself serves as a demonstration of my frontend capabilities, featuring a dynamic UI with glassmorphism effects and responsive design.
-
-*   **Projects Showcase**: 5+ Major Projects
-*   **Certifications**: 3+ Professional Certs
-
----
-
-## 📬 Get in Touch
-
-I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
-
-*   **Email**: [shriguhan7@gmail.com](mailto:shriguhan7@gmail.com)
-*   **Location**: Cuddalore, India
-
----
-
-<details>
-<summary><strong>💻 Run This Portfolio Locally</strong></summary>
-
-If you'd like to explore the code or run this portfolio on your local machine:
-
-1.  **Clone the repo**
-    ```bash
-    git clone https://github.com/shriguhanp/Ai-Healthcare-Multi-Agent-Platform.git
-    cd My-Protfolio
-    ```
-
-2.  **Install dependencies**
-    ```bash
-    npm install
-    ```
-
-3.  **Run Development Server**
-    ```bash
-    npm run dev
-    ```
-    Visit `http://localhost:5173`
-
-</details>
-
+## ⭐ Support
+If you like this project, consider giving it a ⭐ on GitHub!
