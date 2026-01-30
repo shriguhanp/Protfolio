@@ -67,7 +67,7 @@ I focus on building **scalable web apps**, **AI-powered systems**, and **clean U
 
 ## 📬 Connect With Me
 - 🐙 **GitHub:** https://github.com/shriguhanp  
-- 💼 **LinkedIn:** *Add your LinkedIn URL*  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/shriguhanp/  
 
 ---
 
